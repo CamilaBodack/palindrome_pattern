@@ -2,7 +2,7 @@ atomicwrites==1.1.5
 attrs==18.1.0
 certifi==2018.4.16
 more-itertools==4.2.0
-ipython==7.16.3
+ipython==8.10.0
 ipython-genutils==0.2.0
 pluggy==0.6.0
 py==1.10.0
